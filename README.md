@@ -20,3 +20,7 @@
 ## Test
 
 `yarn test`
+
+add few lines just to see if all working
+// :)
+// ))
